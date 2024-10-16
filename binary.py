@@ -1,4 +1,4 @@
-# Binary Search in python
+# Binary Search in python 
 
 
 def binarySearch(array, x, low, high):
